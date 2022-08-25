@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dejv0ld
+- 👋 Hi, I’m David Johnson
 - 👀 I’m interested in ... Javascript
 - 🌱 I’m currently learning ... Html, CSS and Jascript
 - 💞️ I’m looking to collaborate on ...
