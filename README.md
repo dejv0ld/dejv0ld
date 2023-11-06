@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Johnson
 - 👀 I’m interested in ... Javascript
-- 🌱 I’m currently learning ... Html, CSS and Javcript
+- 🌱 I’m currently learning ... Html, CSS and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
