@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David Johnson
 - 👀 I’m interested in ... Javascript
 - 🌱 I’m currently learning ... REACT Native and TypeScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Something fun :D
 - 📫 How to reach me ... https://www.linkedin.com/in/david-johnson-79b9b524a/
 
 <!---
